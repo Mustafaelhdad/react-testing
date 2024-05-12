@@ -28,7 +28,7 @@ function Application() {
         </div>
 
         <div>
-          <label htmlFor="">
+          <label htmlFor="terms">
             <input type="checkbox" id="terms" /> I agree to all terms and
             conditions
           </label>
